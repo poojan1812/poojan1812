@@ -22,5 +22,7 @@ Here are some ideas to get you started:
   </a>
  </p>
  <br>
- ## 📈 My GitHub Stats 📈
-<a href= "https://github.com/anuraghazra/github-readme-stats"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=poojan1812&show_icons=true&hide=stars"></a><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojan1812&layout=compact"></a>
+ ### 📈 My GitHub Stats 📈 
+ <br>
+<a href= "https://github.com/anuraghazra/github-readme-stats"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=poojan1812&show_icons=true&hide=stars"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojan1812&layout=compact"></a>
