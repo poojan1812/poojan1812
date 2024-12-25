@@ -38,12 +38,6 @@ I'm Poojan Mehta.!
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)]
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="GitHub Streaks" alt="Poojan's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=poojan1812">
-  </a>
- </p>
- <br>
   📈 My GitHub Stats 📈 
  <br>
 <a href= "https://github.com/anuraghazra/github-readme-stats"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=poojan1812&show_icons=true&hide=stars"></a>
