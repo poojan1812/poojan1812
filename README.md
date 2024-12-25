@@ -1,20 +1,14 @@
 ### Hi there 👋
 I'm Poojan Mehta.!
+AWS, RedHat OpenShift, CKA, Terraform Certified Cloud/DevOps/Platform Engineer 🧑‍💻
 
-<!--
-**poojan1812/poojan1812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭🍁 I’m actively seeking full-time opportunities in Cloud/DevOps/Platform Engineering space within Canada.
+- 🌱 I’m certified in AWS, RedHat OpenShift, CKA, Terraform - certified to handle the cloud-chaos 🤓
+- 👯 I’m looking to collaborate on anything that involves Cloud, Containers, and Coffee 
+- 💬 Ask me about Cricket, Books, and ofcourse technology.!
+- 📫 How to reach me: https://www.linkedin.com/in/poojanmehta18/
+- ⚡ Fun fact: Most of the troubleshooting I do is nothing more than a restart (kidding.!)
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpoojan1812%2Fhit-counter)](https://hits.seeyoufarm.com)
 
 <p align="center">
