@@ -9,8 +9,9 @@ I'm Poojan Mehta.!
 - 💬 Ask me about Cricket, Books, Freelancing and ofcourse technology.!
 - 📫 How to reach me: https://www.linkedin.com/in/poojanmehta18/
 - ⚡ Fun fact: Most of the troubleshooting I do is nothing more than a restart (kidding.!)
-<br>  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpoojan1812%2Fhit-counter)](https://hits.seeyoufarm.com)
+<br>
+
+[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpoojan1812%2Fhit-counter)](https://hits.seeyoufarm.com)
 
 # 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
