@@ -37,15 +37,7 @@ I'm Poojan Mehta.!
 ![Red Hat Badge](https://img.shields.io/badge/Red%20Hat-E00?logo=redhat&logoColor=fff&style=for-the-badge)  
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)  
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)  
-![Amazon CloudWatch Badge](https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B?logo=amazoncloudwatch&logoColor=fff&style=for-the-badge)
-
-<br>
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)  
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
+![Amazon CloudWatch Badge](https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B?logo=amazonclou
 
 
 <p align="center">
