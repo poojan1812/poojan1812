@@ -3,7 +3,6 @@
 ### Hi there 👋
 I'm Poojan Mehta.!
 
-- 🔭🍁 I’m actively seeking full-time opportunities in Cloud/DevOps/Platform Engineering space within Canada.
 - 🌱 I’m certified in AWS, RedHat OpenShift, CKA, Terraform - certified to handle the cloud-chaos 🤓
 - 👯 I’m looking to collaborate on anything that involves Cloud, Containers, and Coffee 
 - 💬 Ask me about Cricket, Books, Freelancing and ofcourse technology.!
